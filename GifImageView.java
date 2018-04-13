@@ -44,9 +44,7 @@ public class GifImageView extends View {
 		setFocusable(true);
 		mMovie = Movie.decodeStream(mInputStream);
 		mWidth = mMovie.width();
-		mHeight = mMovie.height();
-
-		// requestLayout();
+		mHeight = mMovie.height();		
 
 		WindowManager wm = (WindowManager) getContext().getSystemService(Context.WINDOW_SERVICE);
 		Display display = wm.getDefaultDisplay();
@@ -60,8 +58,7 @@ public class GifImageView extends View {
 	}
 
 	@Override
-	protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-		Log.d("ZZZ", "onMeasure() WH  mWidth = " + mWidth + " mHeight = " + mHeight);
+	protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {		
 		setMeasuredDimension(mWidth, mHeight);
 	}
 
@@ -82,13 +79,10 @@ public class GifImageView extends View {
 
 			int relTime = (int) ((now - mStart) % duration);
 
-			mMovie.setTime(relTime);
-
-			Log.d("WWW", "WH  mWidth = " + mWidth + " mHeight = " + mHeight);
+			mMovie.setTime(relTime);	
 			canvas.scale((float) this.getWidth() / (float) mMovie.width(),
 					(float) this.getHeight() / (float) mMovie.height());
-			mMovie.draw(canvas, 0, 0);// mMovie is my gif picture
-			// mMovie.draw(canvas, 0, 0);
+			mMovie.draw(canvas, 0, 0);			
 			invalidate();
 		}
 	}
