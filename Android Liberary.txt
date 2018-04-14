@@ -2,3 +2,6 @@
 # Must-Have-libraries
 
 https://github.com/codepath/android_guides/wiki/Must-Have-libraries
+
+# Experience android developer
+https://blog.mindorks.com/i-have-1-year-of-experience-in-android-now-what-52d955b08027
