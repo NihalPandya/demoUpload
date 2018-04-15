@@ -5,3 +5,9 @@ https://github.com/codepath/android_guides/wiki/Must-Have-libraries
 
 # Experience android developer
 https://blog.mindorks.com/i-have-1-year-of-experience-in-android-now-what-52d955b08027
+
+# INTEL Application recording
+https://software.intel.com/en-us/articles/intel-inde-media-pack-for-android-tutorials
+https://software.intel.com/en-us/articles/intel-inde-media-pack-for-android-tutorials-video-capturing-for-opengl-applications
+https://software.intel.com/en-us/intel-inde
+https://github.com/INDExOS/media-for-mobile
