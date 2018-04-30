@@ -17,3 +17,6 @@ http://www.felixjones.co.uk/neo%20website/Android_View/
 
 # How to render Android's YUV-NV21 camera image on the background in libgdx with OpenGLES 2.0 in real-time?
 https://stackoverflow.com/questions/22456884/how-to-render-androids-yuv-nv21-camera-image-on-the-background-in-libgdx-with-o
+
+# Android Action bar custom dropdown view on item click [CUSTOM LAYOUT FOR OPTION MENU]
+https://stackoverflow.com/questions/14868774/android-action-bar-custom-dropdown-view-on-item-click/14929002
