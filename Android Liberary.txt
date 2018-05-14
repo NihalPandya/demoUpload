@@ -20,3 +20,7 @@ https://stackoverflow.com/questions/22456884/how-to-render-androids-yuv-nv21-cam
 
 # Android Action bar custom dropdown view on item click [CUSTOM LAYOUT FOR OPTION MENU]
 https://stackoverflow.com/questions/14868774/android-action-bar-custom-dropdown-view-on-item-click/14929002
+
+# Android Mix Audio and Video
+https://stackoverflow.com/questions/35475619/how-to-video-record-with-specific-sound-programmatically-in-android
+https://github.com/afollestad/easy-video-player
