@@ -24,3 +24,6 @@ https://stackoverflow.com/questions/14868774/android-action-bar-custom-dropdown-
 # Android Mix Audio and Video
 https://stackoverflow.com/questions/35475619/how-to-video-record-with-specific-sound-programmatically-in-android
 https://github.com/afollestad/easy-video-player
+
+# Android BluetoothDevice.getName() return null
+https://stackoverflow.com/questions/26290640/android-bluetoothdevice-getname-return-null
