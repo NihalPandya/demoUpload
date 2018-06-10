@@ -27,3 +27,7 @@ https://github.com/afollestad/easy-video-player
 
 # Android BluetoothDevice.getName() return null
 https://stackoverflow.com/questions/26290640/android-bluetoothdevice-getname-return-null
+
+# How to create thumbnail of video url form server
+https://stackoverflow.com/questions/44943575/how-to-create-thumbnail-of-video-url-form-server/44943830
+https://github.com/wseemann/FFmpegMediaMetadataRetriever
