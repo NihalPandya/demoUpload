@@ -25,6 +25,11 @@
       "id": "5",
       "url": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ExtraSongs/Baaki%20Baatein%20Peene%20Baad.mp3",
       "display_name": "Baaki Baatein Peene Baad.mp3"
+    },
+    {
+      "id": "6",
+      "url": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ExtraSongs/Copy%20Baaki%20Baatein%20Peene%20Baad.mp3",
+      "display_name": "Copy Baaki Baatein Peene Baad.mp3"
     }
   ]
 }
