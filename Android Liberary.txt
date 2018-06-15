@@ -34,3 +34,4 @@ https://github.com/wseemann/FFmpegMediaMetadataRetriever
 
 # Best Practices for Custom Tabs
 https://medium.com/google-developers/best-practices-for-custom-tabs-5700e55143ee
+https://developer.chrome.com/multidevice/android/customtabs
