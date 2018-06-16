@@ -39,7 +39,9 @@ https://developer.chrome.com/multidevice/android/customtabs
 # In AndroidStudio To resolve and remove dependency conflict like below :
 
 Error:Execution failed for task ':app:preDebugAndroidTestBuild'.
-> Conflict with dependency 'com.android.support:support-annotations' in project ':app'. Resolved versions for app (27.0.2) and test app (27.1.1) differ. See https://d.android.com/r/tools/test-apk-dependency-conflicts.html for details.
+> Conflict with dependency 'com.android.support:support-annotations' in project ':app'. 
+Resolved versions for app (27.0.2) and test app (27.1.1) differ. 
+See https://d.android.com/r/tools/test-apk-dependency-conflicts.html for details.
 
 Solution:
 (1) Press Ctr+Alt+S ---> will open settings window
