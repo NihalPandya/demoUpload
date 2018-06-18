@@ -74,4 +74,7 @@ compile - Compile dependencies for 'main' sources (deprecated: use 'implementati
      
 (5) Developer(you) have to decide which version of the library to finally include in the build.
 (6) Manage dependency & solve the error!!
+
+# Download all .so files of Bilibili/ijkplayer
+https://stackoverflow.com/questions/38529791/android-lib-ijkplayer-load-https-url
  
