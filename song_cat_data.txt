@@ -1,0 +1,13 @@
+{
+  "total_count": "2",
+  "cat_list": [
+    {
+      "id": "1",
+      "name": "bolliwood"      
+    },
+    {
+      "id": "2",
+      "name": "holliwood"      
+    }
+  ]
+}
