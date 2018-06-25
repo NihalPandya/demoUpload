@@ -3,11 +3,11 @@
   "cat_list": [
     {
       "id": "1",
-      "name": "bolliwood"      
+      "name": "hibolliwood"      
     },
     {
       "id": "2",
-      "name": "holliwood"      
+      "name": "holliwoodhi"      
     },
     {
       "id": "3",
