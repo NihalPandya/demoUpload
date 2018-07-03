@@ -78,3 +78,5 @@ compile - Compile dependencies for 'main' sources (deprecated: use 'implementati
 # Download all .so files of Bilibili/ijkplayer
 https://stackoverflow.com/questions/38529791/android-lib-ijkplayer-load-https-url
  
+# Parallax ListViews
+https://github.com/jpardogo/ListBuddies
