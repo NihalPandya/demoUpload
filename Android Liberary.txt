@@ -83,3 +83,6 @@ https://github.com/jpardogo/ListBuddies
 
 # FFMPEG commands gif overlay on video
 Example : https://gist.github.com/vxhviet/5faf792f9440e0511547d20d17208a76
+
+# PHP Json API
+https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
