@@ -80,3 +80,6 @@ https://stackoverflow.com/questions/38529791/android-lib-ijkplayer-load-https-ur
  
 # Parallax ListViews
 https://github.com/jpardogo/ListBuddies
+
+# FFMPEG commands gif overlay on video
+Example : https://gist.github.com/vxhviet/5faf792f9440e0511547d20d17208a76
