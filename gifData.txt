@@ -1,0 +1,31 @@
+https://stackoverflow.com/a/44569321/9453341
+
+
+ffmpeg -framerate 15 -loop 1 -i photo.jpg
+       -ignore_loop 0 -i overlay.gif
+       -i audio.wav
+  -filter_complex "[0]scale=(iw*sar)*max(600/(iw*sar)\,750/ih):ih*max(600/(iw*sar)\,750/ih),
+                      crop=600:750[b];
+                   [1]format=argb,colorchannelmixer=aa=0.5[ol];[b][ol]overlay"
+  -c:v libx264 -c:a aac -b:a 192k -shortest output.mp4
+  
+////////////////
+
+
+ffmpeg -framerate 15 -loop 1 -i f1.jpg -ignore_loop 0 -i down.gif -filter_complex "[0]scale=(iw*sar)*max(600/(iw*sar)\,750/ih):ih*max(600/(iw*sar)\,750/ih),crop=600:750[b];[1]format=argb,colorchannelmixer=aa=0.5[ol];[b][ol]overlay" output.mp4  
+
+ffmpeg -framerate 15 -loop 1 -i f1.jpg -ignore_loop 0 -i down.gif -filter_complex "[0]scale=(iw*sar)*max(600/(iw*sar)\,750/ih):ih*max(600/(iw*sar)\,750/ih),crop=600:750[b];[1]format=argb,colorchannelmixer=aa=0.5[ol];[b][ol]overlay" output.mp4
+
+
+////////////////////
+
+ffmpeg -framerate 15 -loop 1 -i f%.jpg -ignore_loop 0 -i down.gif -filter_complex "[0]scale=(iw*sar)*max(600/(iw*sar)\,750/ih):ih*max(600/(iw*sar)\,750/ih),crop=600:750[b];[1]format=argb,colorchannelmixer=aa=0.5[ol];[b][ol]overlay" output.mp4
+
+ffmpeg -framerate 15 -loop 1 -i f%1d.jpg -ignore_loop 0 -i down.gif -filter_complex "[0]scale=(iw*sar)*max(600/(iw*sar)\,750/ih):ih*max(600/(iw*sar)\,750/ih),crop=600:750[b];[1]format=argb,colorchannelmixer=aa=0.5[ol];[b][ol]overlay" output.mp4
+
+
+////////////////////
+
+
+https://www.tutorialrepublic.com/codelab.php?topic=php&file=extract-values-from-nested-json-object
+
