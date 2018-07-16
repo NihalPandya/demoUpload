@@ -3,48 +3,48 @@
     "id": 1,
     "Name": "hello1",
     "AssetFile": "hello_asset.unity3d path",
-    "ThumbImg": "hello_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/one.jpg"
   },
   {
     "id": 2,
     "Name": "hello2",
     "AssetFile": "hello2_asset.unity3d path",
-    "ThumbImg": "hello2_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/two.jpg"
   },
   {
     "id": 3,
     "Name": "hello3",
     "AssetFile": "hello3_asset.unity3d path",
-    "ThumbImg": "hello3_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/three.jpg"
   },
   {
     "id": 4,
     "Name": "hello4",
     "AssetFile": "hello4_asset.unity3d path",
-    "ThumbImg": "hello4_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/four.jpg"
   },
   {
     "id": 5,
     "Name": "hello5",
     "AssetFile": "hello5_asset.unity3d path",
-    "ThumbImg": "hello5_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/five.jpg"
   },
   {
     "id": 6,
     "Name": "hello6",
     "AssetFile": "hello6_asset.unity3d path",
-    "ThumbImg": "hello6_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/six.jpg"
   },
   {
     "id": 7,
     "Name": "hello7",
     "AssetFile": "hello7_asset.unity3d path",
-    "ThumbImg": "hello7_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/seven.jpg"
   },
   {
     "id": 8,
     "Name": "hello8",
     "AssetFile": "hello8_asset.unity3d path",
-    "ThumbImg": "hello8_thumb.jpg path"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/eight.jpg"
   }
 ]
