@@ -89,3 +89,12 @@ https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
 
 # Free Image Api
 https://easymail7.com/free-image-stock-photos/
+
+# Android-amazing-recycleview gellary
+https://github.com/jiang111/Awesome-RecyclerView-LayoutManager
+
+# Google serach string
+Awesome android Wallpaper App Github
+
+# Collection of Android related open source Apps | Libraries | Tools
+https://github.com/runo280/awesome-android
