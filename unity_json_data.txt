@@ -4,62 +4,71 @@
     "Name": "watercraft_new",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/one.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/one.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Casino.mp4"
   },
   {
     "id": 2,
     "Name": "hello2",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/two.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/two.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Casino.mp4"
   },
   {
     "id": 3,
     "Name": "hello3",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/three.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/three.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Casino.mp4"
   },
   {
     "id": 4,
     "Name": "hello4",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/four.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/four.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Casino.mp4"
   },
   {
     "id": 5,
     "Name": "hello5",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/five.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/five.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Casino.mp4"
   },
   {
     "id": 6,
     "Name": "hello6",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/six.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/six.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Red.mp4"
   },
   {
     "id": 7,
     "Name": "hello7",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/seven.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/seven.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Red.mp4"
   },
   {
     "id": 8,
     "Name": "hello8",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/eight.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/eight.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Red.mp4"
   },
   {
     "id": 9,
     "Name": "hello9",
     "GameObjectName": "main (1)",
     "AssetFile": "https://www.dropbox.com/s/8u8cqie9zb98nas/watercraft_new.unity3d?dl=1",
-    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/nine.jpg"
+    "ThumbImg": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/nine.jpg",
+    "video": "https://raw.githubusercontent.com/NihalPandya/demoUpload/master/ThumbSample/sample_video/Red.mp4"
   }
 ]
