@@ -98,3 +98,6 @@ Awesome android Wallpaper App Github
 
 # Collection of Android related open source Apps | Libraries | Tools
 https://github.com/runo280/awesome-android
+
+# How to video record with specific sound programmatically in android?
+https://stackoverflow.com/questions/35475619/how-to-video-record-with-specific-sound-programmatically-in-android
