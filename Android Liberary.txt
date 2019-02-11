@@ -101,3 +101,6 @@ https://github.com/runo280/awesome-android
 
 # How to video record with specific sound programmatically in android?
 https://stackoverflow.com/questions/35475619/how-to-video-record-with-specific-sound-programmatically-in-android
+
+# Load Blander 3D object in android
+https://code.tutsplus.com/tutorials/how-to-use-opengl-es-in-android-apps--cms-28464
