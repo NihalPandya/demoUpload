@@ -8,3 +8,6 @@ Example : Multiple file download at a time(Audio,Video,Image,etc).
 
 ####3. App design Ideas
 https://www.uplabs.com/
+
+####3. View & Tranding Search Term's on google 
+https://trends.google.com/trends/?geo=US
